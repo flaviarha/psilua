@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Users\1067771\Documents\GitHub\PsiLua-back\venv"
+VIRTUAL_ENV="D:\Users\1067771\Documents\GitHub\psilua\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Users\1067771\Documents\GitHub\PsiLua-back\venv
+set VIRTUAL_ENV=D:\Users\1067771\Documents\GitHub\psilua\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
